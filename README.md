@@ -14,4 +14,4 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone [https://github.com/tu-usuario/nombre-del-repositorio.git](https://github.com/JosueIsOffline/MiniRed.git)https://github.com/JosueIsOffline/MiniRed.git
+   git clone https://github.com/JosueIsOffline/MiniRed.git
