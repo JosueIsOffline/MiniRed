@@ -15,3 +15,11 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
 
    ```bash
    git clone https://github.com/JosueIsOffline/MiniRed.git
+
+2. En el directorio raíz del proyecto, instala las dependencias del servidor (Node.js / Express):
+   
+   ```bash
+   cd backend
+   npm install
+
+
