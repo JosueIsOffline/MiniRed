@@ -1,11 +1,6 @@
 # MiniRed
 En este proyecto aplico mis conocimientos de NodeJS, Express, MySQL y ReactJS. Este proyecto esta enfocado mas en el backend
 
-
-# MiniRed
-
-Descripción breve del proyecto.
-
 ## Requisitos Previos
 
 Antes de comenzar, asegúrate de tener instalado lo siguiente:
